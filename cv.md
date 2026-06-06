@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+<a href="{{ base_path }}/files/Pranav_Reddy_Danda_CV.pdf" target="_blank">Download CV (PDF)</a>
 
 Education
 ======
