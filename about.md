@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a cybersecurity and AI researcher currently completing my **M.S. in Cybersecurity with an emphasis in Artificial Intelligence** at Webster University in St. Louis. My work sits at the intersection of machine learning and security — building and fine-tuning transformer-based NLP models, studying the energy footprint of large language models, and applying deep learning to real-world detection problems.
+I'm a cybersecurity and AI researcher with a degree in **M.S. in Cybersecurity with an emphasis in Artificial Intelligence** at Webster University in St. Louis. My work sits at the intersection of machine learning and security building and fine-tuning transformer-based NLP models, studying the energy footprint of large language models, and applying deep learning to real-world detection problems.
 
 I hold a B.E. in Electronics & Communication Engineering from Matrusri Engineering College (Osmania University), and I've worked on network security hardening, penetration testing support, and security automation during my time at BSNL.
 
