@@ -55,7 +55,7 @@ Certifications
 ======
 * Google Cybersecurity Professional Certificate — Coursera
 * Google Advanced Data Analytics — Coursera
-* CompTIA Security+ (In Progress)
+* CompTIA Security+
 
 Skills
 ======
